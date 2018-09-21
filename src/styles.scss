@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body {
+  background: #152534;
+  margin: 0;
+
+}
+
+@font-face {
+  font-family: 'digital-7_monomono';
+  src: url('./assets/fonts/digital-7_mono-webfont.woff2') format('woff2'),
+  url('./assets/fonts/digital-7_mono-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
